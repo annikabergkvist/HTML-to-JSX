@@ -131,22 +131,14 @@ body {
 }
 
 .download-button.outline {
-    background-color: #e6e5e0;
-    color: #333;
-    border: 1px solid #292826;
+    background-color: transparent;
+    border: 1px solid #111;
+    color: #111;
 }
 
-.download-button.outline:hover {
-    background-color: #D8D6CE;
-}
-
-.download-button.organization {
-    background-color: #910c0c;
+.download-button.jamestown {
+    background-color: #723c3c;
     color: #fff;
-}
-
-.download-button.organization:hover {
-    background-color: #5e2222;
 }
 
 .page-label {
